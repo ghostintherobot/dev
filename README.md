@@ -1,3 +1,1 @@
-"# dev" 
-# dev 
-#dev 
+Hello and welcome to my creative space. This is where you will find my latest projects and samples of my work. Art has always been my passion and love. Being able to express ideas and concepts in a visually aesthetic form has became my craft over the years. My goal is to create surreal imaginative, but original, and unique visual applications and aesthetic database systems. I am always on the hunt for clever techniques and robust technology to implement into my workflow and study the latest "trends" to stay on top of this ever-changing industry known as design.
